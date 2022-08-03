@@ -1,2 +1,3 @@
-# merge-conflict-test
+# first-branch
+
 testing a merge conflict
